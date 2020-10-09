@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is Basit's Sample Application after changes.
+            This is Basit's Sample Application after changes for logging.
         </div>
     </form>
 </body>
